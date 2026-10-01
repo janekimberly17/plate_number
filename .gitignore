@@ -1,0 +1,18 @@
+# Dataset images and labels (download from Mendeley, see README)
+data/train/
+data/val/
+*.cache
+desktop.ini
+
+# Training output (keep only the final weights in models/)
+runs/
+*.pt
+!models/*.pt
+
+.venv/
+venv/
+env/
+__pycache__/
+
+node_modules/
+web/dist/

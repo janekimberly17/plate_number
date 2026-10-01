@@ -1,0 +1,1242 @@
+{
+ "samples": [
+  {
+   "id": "v001",
+   "truth": "TBU5553",
+   "read": "TBU5553",
+   "display": "TBU 5553",
+   "raw": "TBU5553",
+   "detConf": 0.93,
+   "hasCrop": true
+  },
+  {
+   "id": "v002",
+   "truth": "JVD9104",
+   "read": "JYD9104",
+   "display": "JYD 9104",
+   "raw": "JYD9104",
+   "detConf": 0.96,
+   "hasCrop": true
+  },
+  {
+   "id": "v003",
+   "truth": "VX1042",
+   "read": "VX1042",
+   "display": "VX 1042",
+   "raw": "VX1042",
+   "detConf": 0.96,
+   "hasCrop": true
+  },
+  {
+   "id": "v004",
+   "truth": "PHR8774",
+   "read": "PHR8774",
+   "display": "PHR 8774",
+   "raw": "PHR8774",
+   "detConf": 0.96,
+   "hasCrop": true
+  },
+  {
+   "id": "v005",
+   "truth": "JYA5911",
+   "read": "JYA5911",
+   "display": "JYA 5911",
+   "raw": "JYA5911",
+   "detConf": 0.98,
+   "hasCrop": true
+  },
+  {
+   "id": "v006",
+   "truth": "AMP8813",
+   "read": "AMP8813",
+   "display": "AMP 8813",
+   "raw": "AMP8813",
+   "detConf": 0.95,
+   "hasCrop": true
+  },
+  {
+   "id": "v007",
+   "truth": "WC8763L",
+   "read": "WC8763L",
+   "display": "WC 8763 L",
+   "raw": "WC8763L",
+   "detConf": 0.94,
+   "hasCrop": true
+  },
+  {
+   "id": "v008",
+   "truth": "JWT4811",
+   "read": "JHT4811",
+   "display": "JHT 4811",
+   "raw": "JHT4811",
+   "detConf": 0.96,
+   "hasCrop": true
+  },
+  {
+   "id": "v009",
+   "truth": "AKD73",
+   "read": "AKD73",
+   "display": "AKD 73",
+   "raw": "AKD73",
+   "detConf": 0.97,
+   "hasCrop": true
+  },
+  {
+   "id": "v010",
+   "truth": "JKW9166",
+   "read": "JKW9166",
+   "display": "JKW 9166",
+   "raw": "JKW9166",
+   "detConf": 0.97,
+   "hasCrop": true
+  },
+  {
+   "id": "v011",
+   "truth": "JPV8568",
+   "read": "JPV8568",
+   "display": "JPV 8568",
+   "raw": "JPV8568",
+   "detConf": 0.95,
+   "hasCrop": true
+  },
+  {
+   "id": "v012",
+   "truth": "JNJ20",
+   "read": "JNJ20",
+   "display": "JNJ 20",
+   "raw": "JNJZO",
+   "detConf": 0.97,
+   "hasCrop": true
+  },
+  {
+   "id": "v013",
+   "truth": "JYC4448",
+   "read": "JYC4448",
+   "display": "JYC 4448",
+   "raw": "JYC4448",
+   "detConf": 0.95,
+   "hasCrop": true
+  },
+  {
+   "id": "v014",
+   "truth": "PME294",
+   "read": "PME294",
+   "display": "PME 294",
+   "raw": "PME294",
+   "detConf": 0.95,
+   "hasCrop": true
+  },
+  {
+   "id": "v015",
+   "truth": "AND9813",
+   "read": "AND9813",
+   "display": "AND 9813",
+   "raw": "AND9813",
+   "detConf": 0.94,
+   "hasCrop": true
+  },
+  {
+   "id": "v016",
+   "truth": "JWT9605",
+   "read": "JHT9605",
+   "display": "JHT 9605",
+   "raw": "JHT9605",
+   "detConf": 0.93,
+   "hasCrop": true
+  },
+  {
+   "id": "v017",
+   "truth": "JJJ4666",
+   "read": "JJJ4666",
+   "display": "JJJ 4666",
+   "raw": "JJJ4666",
+   "detConf": 0.96,
+   "hasCrop": true
+  },
+  {
+   "id": "v018",
+   "truth": "JUC6841",
+   "read": "JUC6841",
+   "display": "JUC 6841",
+   "raw": "JUC6841",
+   "detConf": 0.96,
+   "hasCrop": true
+  },
+  {
+   "id": "v019",
+   "truth": "JXC6297",
+   "read": "JXC6297",
+   "display": "JXC 6297",
+   "raw": "JXC6297",
+   "detConf": 0.96,
+   "hasCrop": true
+  },
+  {
+   "id": "v020",
+   "truth": "VKB2009",
+   "read": "VKB2009",
+   "display": "VKB 2009",
+   "raw": "VKB2009",
+   "detConf": 0.96,
+   "hasCrop": true
+  },
+  {
+   "id": "v021",
+   "truth": "BLS7789",
+   "read": "BLS7789",
+   "display": "BLS 7789",
+   "raw": "BLS7789",
+   "detConf": 0.97,
+   "hasCrop": true
+  },
+  {
+   "id": "v022",
+   "truth": "PRR299",
+   "read": "PRR299",
+   "display": "PRR 299",
+   "raw": "PRR299",
+   "detConf": 0.95,
+   "hasCrop": true
+  },
+  {
+   "id": "v023",
+   "truth": "PQJ83",
+   "read": "PQJ3",
+   "display": "PQJ 3",
+   "raw": "PQJ03",
+   "detConf": 0.96,
+   "hasCrop": true
+  },
+  {
+   "id": "v024",
+   "truth": "QM8288R",
+   "read": "QM8288R",
+   "display": "QM 8288 R",
+   "raw": "QM8288R",
+   "detConf": 0.96,
+   "hasCrop": true
+  },
+  {
+   "id": "v025",
+   "truth": "MBQ9838",
+   "read": "MBQ9838",
+   "display": "MBQ 9838",
+   "raw": "MBQ9838",
+   "detConf": 0.97,
+   "hasCrop": true
+  },
+  {
+   "id": "v026",
+   "truth": "1M4U792",
+   "read": "1M4U792",
+   "display": "1M4U 792",
+   "raw": "IM4U792",
+   "detConf": 0.94,
+   "hasCrop": true
+  },
+  {
+   "id": "v027",
+   "truth": "WD2828F",
+   "read": "ND2820F",
+   "display": "ND 2820 F",
+   "raw": "ND2820F",
+   "detConf": 0.94,
+   "hasCrop": true
+  },
+  {
+   "id": "v028",
+   "truth": "WB2744A",
+   "read": "WB2744A",
+   "display": "WB 2744 A",
+   "raw": "WB2744A",
+   "detConf": 0.95,
+   "hasCrop": true
+  },
+  {
+   "id": "v029",
+   "truth": "QCR5150",
+   "read": "CRE5150",
+   "display": "CRE 5150",
+   "raw": "OCRE5150",
+   "detConf": 0.95,
+   "hasCrop": true
+  },
+  {
+   "id": "v030",
+   "truth": "GOLD1522",
+   "read": "GOLD1152",
+   "display": "GOLD 1152",
+   "raw": "COLD11522",
+   "detConf": 0.92,
+   "hasCrop": true
+  },
+  {
+   "id": "v031",
+   "truth": "W6680G",
+   "read": "MDV3996",
+   "display": "MDV 3996",
+   "raw": "MDV3996",
+   "detConf": 0.96,
+   "hasCrop": true
+  },
+  {
+   "id": "v032",
+   "truth": "BSE3958",
+   "read": "BSE3958",
+   "display": "BSE 3958",
+   "raw": "BSE3958",
+   "detConf": 0.96,
+   "hasCrop": true
+  },
+  {
+   "id": "v033",
+   "truth": "SU1111M",
+   "read": "SU1111M",
+   "display": "SU 1111 M",
+   "raw": "SUIIIIM",
+   "detConf": 0.91,
+   "hasCrop": true
+  },
+  {
+   "id": "v034",
+   "truth": "SU1111M",
+   "read": "SU1111M",
+   "display": "SU 1111 M",
+   "raw": "SUIIIIM",
+   "detConf": 0.94,
+   "hasCrop": true
+  },
+  {
+   "id": "v035",
+   "truth": "GOLD1460",
+   "read": "GOLD1460",
+   "display": "GOLD 1460",
+   "raw": "GOLD1460",
+   "detConf": 0.95,
+   "hasCrop": true
+  },
+  {
+   "id": "v036",
+   "truth": "GOLD1460",
+   "read": "GOLD1460",
+   "display": "GOLD 1460",
+   "raw": "GOLD1460",
+   "detConf": 0.95,
+   "hasCrop": true
+  },
+  {
+   "id": "v037",
+   "truth": "VCL546",
+   "read": "VCL546",
+   "display": "VCL 546",
+   "raw": "VCL546",
+   "detConf": 0.95,
+   "hasCrop": true
+  },
+  {
+   "id": "v038",
+   "truth": "VIPS6639",
+   "read": "VIP6639",
+   "display": "VIP 6639",
+   "raw": "VIPS6639",
+   "detConf": 0.94,
+   "hasCrop": true
+  },
+  {
+   "id": "v039",
+   "truth": "BLB6575",
+   "read": "BLB6575",
+   "display": "BLB 6575",
+   "raw": "BLB6575",
+   "detConf": 0.95,
+   "hasCrop": true
+  },
+  {
+   "id": "v040",
+   "truth": "QS2647M",
+   "read": "QS2647M",
+   "display": "QS 2647 M",
+   "raw": "0S2647M",
+   "detConf": 0.96,
+   "hasCrop": true
+  },
+  {
+   "id": "v041",
+   "truth": "QTQ4414",
+   "read": "Q1044",
+   "display": "Q 1044",
+   "raw": "010444",
+   "detConf": 0.82,
+   "hasCrop": true
+  },
+  {
+   "id": "v042",
+   "truth": "SK3010F",
+   "read": "SKD10F",
+   "display": "SKD 10 F",
+   "raw": "SKDOIOF",
+   "detConf": 0.94,
+   "hasCrop": true
+  },
+  {
+   "id": "v043",
+   "truth": "LA3107",
+   "read": "LA3107",
+   "display": "LA 3107",
+   "raw": "LA3107",
+   "detConf": 0.95,
+   "hasCrop": true
+  },
+  {
+   "id": "v044",
+   "truth": "JGS172",
+   "read": "JGS172",
+   "display": "JGS 172",
+   "raw": "JGS172",
+   "detConf": 0.95,
+   "hasCrop": true
+  },
+  {
+   "id": "v045",
+   "truth": "W6697N",
+   "read": "W6697N",
+   "display": "W 6697 N",
+   "raw": "16697N",
+   "detConf": 0.94,
+   "hasCrop": true
+  },
+  {
+   "id": "v046",
+   "truth": "WB3387L",
+   "read": "WB3387L",
+   "display": "WB 3387 L",
+   "raw": "WB3387L",
+   "detConf": 0.95,
+   "hasCrop": true
+  },
+  {
+   "id": "v047",
+   "truth": "KFQ1133",
+   "read": "KFQ1133",
+   "display": "KFQ 1133",
+   "raw": "KFQ1133",
+   "detConf": 0.94,
+   "hasCrop": true
+  },
+  {
+   "id": "v048",
+   "truth": "QDD1148",
+   "read": "QDD1148",
+   "display": "QDD 1148",
+   "raw": "QDD1148",
+   "detConf": 0.95,
+   "hasCrop": true
+  },
+  {
+   "id": "v049",
+   "truth": "JRG1555",
+   "read": "JRG1555",
+   "display": "JRG 1555",
+   "raw": "JRG1555",
+   "detConf": 0.94,
+   "hasCrop": true
+  },
+  {
+   "id": "v050",
+   "truth": "PERODUA262",
+   "read": "PERODUA262",
+   "display": "PERODUA 262",
+   "raw": "PERODUA262",
+   "detConf": 0.95,
+   "hasCrop": true
+  },
+  {
+   "id": "v051",
+   "truth": "UR6680",
+   "read": "UR6680",
+   "display": "UR 6680",
+   "raw": "UR6680",
+   "detConf": 0.94,
+   "hasCrop": true
+  },
+  {
+   "id": "v052",
+   "truth": "MDL3431",
+   "read": "MDL3431",
+   "display": "MDL 3431",
+   "raw": "MDL3431",
+   "detConf": 0.95,
+   "hasCrop": true
+  },
+  {
+   "id": "v053",
+   "truth": "CEL318",
+   "read": null,
+   "display": null,
+   "raw": "C01826690011",
+   "detConf": 0.77,
+   "hasCrop": true
+  },
+  {
+   "id": "v054",
+   "truth": "MCJ70",
+   "read": "MCJ70",
+   "display": "MCJ 70",
+   "raw": "MCJ70",
+   "detConf": 0.86,
+   "hasCrop": true
+  },
+  {
+   "id": "v055",
+   "truth": "MCX9680",
+   "read": "MCX9680",
+   "display": "MCX 9680",
+   "raw": "MCX9680",
+   "detConf": 0.89,
+   "hasCrop": true
+  },
+  {
+   "id": "v056",
+   "truth": "NBV8736",
+   "read": "NBV8736",
+   "display": "NBV 8736",
+   "raw": "NBV8736",
+   "detConf": 0.94,
+   "hasCrop": true
+  },
+  {
+   "id": "v057",
+   "truth": "DFK6984",
+   "read": "DFK6984",
+   "display": "DFK 6984",
+   "raw": "DFK6984",
+   "detConf": 0.95,
+   "hasCrop": true
+  },
+  {
+   "id": "v058",
+   "truth": "FC6092",
+   "read": "FC6092",
+   "display": "FC 6092",
+   "raw": "FC6092",
+   "detConf": 0.96,
+   "hasCrop": true
+  },
+  {
+   "id": "v059",
+   "truth": "DCA9000",
+   "read": "DCA9000",
+   "display": "DCA 9000",
+   "raw": "DCA9000",
+   "detConf": 0.95,
+   "hasCrop": true
+  },
+  {
+   "id": "v060",
+   "truth": "SU2739F",
+   "read": "SU2739F",
+   "display": "SU 2739 F",
+   "raw": "SU2739F",
+   "detConf": 0.96,
+   "hasCrop": true
+  },
+  {
+   "id": "v061",
+   "truth": "WTQ7202",
+   "read": "WTQ7202",
+   "display": "WTQ 7202",
+   "raw": "WTQ7202",
+   "detConf": 0.96,
+   "hasCrop": true
+  },
+  {
+   "id": "v062",
+   "truth": "MAQ6210",
+   "read": "MAQ6210",
+   "display": "MAQ 6210",
+   "raw": "MAQ6210",
+   "detConf": 0.97,
+   "hasCrop": true
+  },
+  {
+   "id": "v063",
+   "truth": "RX7782",
+   "read": "RX7782",
+   "display": "RX 7782",
+   "raw": "RX7782",
+   "detConf": 0.93,
+   "hasCrop": true
+  },
+  {
+   "id": "v064",
+   "truth": "MBY2638",
+   "read": "MBY2638",
+   "display": "MBY 2638",
+   "raw": "MBY2638",
+   "detConf": 0.95,
+   "hasCrop": true
+  },
+  {
+   "id": "v065",
+   "truth": "MEC5958",
+   "read": "MEC5958",
+   "display": "MEC 5958",
+   "raw": "MEC5958",
+   "detConf": 0.97,
+   "hasCrop": true
+  },
+  {
+   "id": "v066",
+   "truth": "QAB218H",
+   "read": "QAB218H",
+   "display": "QAB 218 H",
+   "raw": "OAB218H",
+   "detConf": 0.96,
+   "hasCrop": true
+  },
+  {
+   "id": "v067",
+   "truth": "VCT9264",
+   "read": "VCT9264",
+   "display": "VCT 9264",
+   "raw": "VCT9264",
+   "detConf": 0.94,
+   "hasCrop": true
+  },
+  {
+   "id": "v068",
+   "truth": "VK641",
+   "read": "VK641",
+   "display": "VK 641",
+   "raw": "VK641",
+   "detConf": 0.84,
+   "hasCrop": true
+  },
+  {
+   "id": "v069",
+   "truth": "JRC5492",
+   "read": "JRC5492",
+   "display": "JRC 5492",
+   "raw": "JRC5492",
+   "detConf": 0.91,
+   "hasCrop": true
+  },
+  {
+   "id": "v070",
+   "truth": "VX1539",
+   "read": "VX1539",
+   "display": "VX 1539",
+   "raw": "VX1539",
+   "detConf": 0.91,
+   "hasCrop": true
+  },
+  {
+   "id": "v071",
+   "truth": "VAT6458",
+   "read": "VAT6458",
+   "display": "VAT 6458",
+   "raw": "VAT6458",
+   "detConf": 0.93,
+   "hasCrop": true
+  },
+  {
+   "id": "v072",
+   "truth": "VBV1951",
+   "read": "VBV1951",
+   "display": "VBV 1951",
+   "raw": "VBV1951",
+   "detConf": 0.9,
+   "hasCrop": true
+  },
+  {
+   "id": "v073",
+   "truth": "WQA2997",
+   "read": "WQA299Z",
+   "display": "WQA 299 Z",
+   "raw": "W0A299Z",
+   "detConf": 0.46,
+   "hasCrop": true
+  },
+  {
+   "id": "v074",
+   "truth": "SAB1633C",
+   "read": "SAB1633C",
+   "display": "SAB 1633 C",
+   "raw": "SAB1633C",
+   "detConf": 0.98,
+   "hasCrop": true
+  },
+  {
+   "id": "v075",
+   "truth": "VL716",
+   "read": "VL716",
+   "display": "VL 716",
+   "raw": "VL716",
+   "detConf": 0.91,
+   "hasCrop": true
+  },
+  {
+   "id": "v076",
+   "truth": "VBM6529",
+   "read": "VBM6529",
+   "display": "VBM 6529",
+   "raw": "VBM6529",
+   "detConf": 0.92,
+   "hasCrop": true
+  },
+  {
+   "id": "v077",
+   "truth": "HJA8055",
+   "read": "HJA8055",
+   "display": "HJA 8055",
+   "raw": "HJA8055",
+   "detConf": 0.96,
+   "hasCrop": true
+  },
+  {
+   "id": "v078",
+   "truth": "HWC6057",
+   "read": "EC605",
+   "display": "EC 605",
+   "raw": "EC6D5",
+   "detConf": 0.93,
+   "hasCrop": true
+  },
+  {
+   "id": "v079",
+   "truth": "JEF9398",
+   "read": "JEF9398",
+   "display": "JEF 9398",
+   "raw": "JEF9398",
+   "detConf": 0.96,
+   "hasCrop": true
+  },
+  {
+   "id": "v080",
+   "truth": "KV2517A",
+   "read": "KV2517A",
+   "display": "KV 2517 A",
+   "raw": "KV2517A",
+   "detConf": 0.72,
+   "hasCrop": true
+  },
+  {
+   "id": "v081",
+   "truth": "W1688A",
+   "read": "W1688A",
+   "display": "W 1688 A",
+   "raw": "W1688A",
+   "detConf": 0.94,
+   "hasCrop": true
+  },
+  {
+   "id": "v082",
+   "truth": "1M4U555",
+   "read": "1M4U555",
+   "display": "1M4U 555",
+   "raw": "IMAU555",
+   "detConf": 0.93,
+   "hasCrop": true
+  },
+  {
+   "id": "v083",
+   "truth": "PLK6392",
+   "read": "PLK6392",
+   "display": "PLK 6392",
+   "raw": "PLK6392",
+   "detConf": 0.92,
+   "hasCrop": true
+  },
+  {
+   "id": "v084",
+   "truth": "SA377N",
+   "read": "SA327N",
+   "display": "SA 327 N",
+   "raw": "SA3Z7N",
+   "detConf": 0.97,
+   "hasCrop": true
+  },
+  {
+   "id": "v085",
+   "truth": "ST3633Y",
+   "read": "ST3693VL",
+   "display": "ST 3693 VL",
+   "raw": "ST3693VL",
+   "detConf": 0.96,
+   "hasCrop": true
+  },
+  {
+   "id": "v086",
+   "truth": "W3264K",
+   "read": "W3264K",
+   "display": "W 3264 K",
+   "raw": "13264K",
+   "detConf": 0.94,
+   "hasCrop": true
+  },
+  {
+   "id": "v087",
+   "truth": "WUA9836",
+   "read": "WUA9836",
+   "display": "WUA 9836",
+   "raw": "WUA9836",
+   "detConf": 0.92,
+   "hasCrop": true
+  },
+  {
+   "id": "v088",
+   "truth": "ZD7609",
+   "read": "ZD7609",
+   "display": "ZD 7609",
+   "raw": "ZD7609",
+   "detConf": 0.97,
+   "hasCrop": true
+  },
+  {
+   "id": "v089",
+   "truth": "ZL8115",
+   "read": "ZL8115",
+   "display": "ZL 8115",
+   "raw": "ZL8115",
+   "detConf": 0.91,
+   "hasCrop": true
+  }
+ ],
+ "fleet": [
+  {
+   "cardId": "CARD-001",
+   "plate": "1M4U555",
+   "driver": "Driver 1"
+  },
+  {
+   "cardId": "CARD-002",
+   "plate": "1M4U792",
+   "driver": "Driver 2"
+  },
+  {
+   "cardId": "CARD-003",
+   "plate": "AKD73",
+   "driver": "Driver 3"
+  },
+  {
+   "cardId": "CARD-004",
+   "plate": "AMP8813",
+   "driver": "Driver 4"
+  },
+  {
+   "cardId": "CARD-005",
+   "plate": "AND9813",
+   "driver": "Driver 5"
+  },
+  {
+   "cardId": "CARD-006",
+   "plate": "BLB6575",
+   "driver": "Driver 6"
+  },
+  {
+   "cardId": "CARD-007",
+   "plate": "BLS7789",
+   "driver": "Driver 7"
+  },
+  {
+   "cardId": "CARD-008",
+   "plate": "BSE3958",
+   "driver": "Driver 8"
+  },
+  {
+   "cardId": "CARD-009",
+   "plate": "CEL318",
+   "driver": "Driver 9"
+  },
+  {
+   "cardId": "CARD-010",
+   "plate": "DCA9000",
+   "driver": "Driver 10"
+  },
+  {
+   "cardId": "CARD-011",
+   "plate": "DFK6984",
+   "driver": "Driver 11"
+  },
+  {
+   "cardId": "CARD-012",
+   "plate": "FC6092",
+   "driver": "Driver 12"
+  },
+  {
+   "cardId": "CARD-013",
+   "plate": "GOLD1460",
+   "driver": "Driver 13"
+  },
+  {
+   "cardId": "CARD-014",
+   "plate": "GOLD1522",
+   "driver": "Driver 14"
+  },
+  {
+   "cardId": "CARD-015",
+   "plate": "HJA8055",
+   "driver": "Driver 15"
+  },
+  {
+   "cardId": "CARD-016",
+   "plate": "HWC6057",
+   "driver": "Driver 16"
+  },
+  {
+   "cardId": "CARD-017",
+   "plate": "JEF9398",
+   "driver": "Driver 17"
+  },
+  {
+   "cardId": "CARD-018",
+   "plate": "JGS172",
+   "driver": "Driver 18"
+  },
+  {
+   "cardId": "CARD-019",
+   "plate": "JJJ4666",
+   "driver": "Driver 19"
+  },
+  {
+   "cardId": "CARD-020",
+   "plate": "JKW9166",
+   "driver": "Driver 20"
+  },
+  {
+   "cardId": "CARD-021",
+   "plate": "JNJ20",
+   "driver": "Driver 21"
+  },
+  {
+   "cardId": "CARD-022",
+   "plate": "JPV8568",
+   "driver": "Driver 22"
+  },
+  {
+   "cardId": "CARD-023",
+   "plate": "JRC5492",
+   "driver": "Driver 23"
+  },
+  {
+   "cardId": "CARD-024",
+   "plate": "JRG1555",
+   "driver": "Driver 24"
+  },
+  {
+   "cardId": "CARD-025",
+   "plate": "JUC6841",
+   "driver": "Driver 25"
+  },
+  {
+   "cardId": "CARD-026",
+   "plate": "JVD9104",
+   "driver": "Driver 26"
+  },
+  {
+   "cardId": "CARD-027",
+   "plate": "JWT4811",
+   "driver": "Driver 27"
+  },
+  {
+   "cardId": "CARD-028",
+   "plate": "JWT9605",
+   "driver": "Driver 28"
+  },
+  {
+   "cardId": "CARD-029",
+   "plate": "JXC6297",
+   "driver": "Driver 29"
+  },
+  {
+   "cardId": "CARD-030",
+   "plate": "JYA5911",
+   "driver": "Driver 30"
+  },
+  {
+   "cardId": "CARD-031",
+   "plate": "JYC4448",
+   "driver": "Driver 31"
+  },
+  {
+   "cardId": "CARD-032",
+   "plate": "KFQ1133",
+   "driver": "Driver 32"
+  },
+  {
+   "cardId": "CARD-033",
+   "plate": "KV2517A",
+   "driver": "Driver 33"
+  },
+  {
+   "cardId": "CARD-034",
+   "plate": "LA3107",
+   "driver": "Driver 34"
+  },
+  {
+   "cardId": "CARD-035",
+   "plate": "MAQ6210",
+   "driver": "Driver 35"
+  },
+  {
+   "cardId": "CARD-036",
+   "plate": "MBQ9838",
+   "driver": "Driver 36"
+  },
+  {
+   "cardId": "CARD-037",
+   "plate": "MBY2638",
+   "driver": "Driver 37"
+  },
+  {
+   "cardId": "CARD-038",
+   "plate": "MCJ70",
+   "driver": "Driver 38"
+  },
+  {
+   "cardId": "CARD-039",
+   "plate": "MCX9680",
+   "driver": "Driver 39"
+  },
+  {
+   "cardId": "CARD-040",
+   "plate": "MDL3431",
+   "driver": "Driver 40"
+  },
+  {
+   "cardId": "CARD-041",
+   "plate": "MEC5958",
+   "driver": "Driver 41"
+  },
+  {
+   "cardId": "CARD-042",
+   "plate": "NBV8736",
+   "driver": "Driver 42"
+  },
+  {
+   "cardId": "CARD-043",
+   "plate": "PERODUA262",
+   "driver": "Driver 43"
+  },
+  {
+   "cardId": "CARD-044",
+   "plate": "PHR8774",
+   "driver": "Driver 44"
+  },
+  {
+   "cardId": "CARD-045",
+   "plate": "PLK6392",
+   "driver": "Driver 45"
+  },
+  {
+   "cardId": "CARD-046",
+   "plate": "PME294",
+   "driver": "Driver 46"
+  },
+  {
+   "cardId": "CARD-047",
+   "plate": "PQJ83",
+   "driver": "Driver 47"
+  },
+  {
+   "cardId": "CARD-048",
+   "plate": "PRR299",
+   "driver": "Driver 48"
+  },
+  {
+   "cardId": "CARD-049",
+   "plate": "QAB218H",
+   "driver": "Driver 49"
+  },
+  {
+   "cardId": "CARD-050",
+   "plate": "QCR5150",
+   "driver": "Driver 50"
+  },
+  {
+   "cardId": "CARD-051",
+   "plate": "QDD1148",
+   "driver": "Driver 51"
+  },
+  {
+   "cardId": "CARD-052",
+   "plate": "QM8288R",
+   "driver": "Driver 52"
+  },
+  {
+   "cardId": "CARD-053",
+   "plate": "QS2647M",
+   "driver": "Driver 53"
+  },
+  {
+   "cardId": "CARD-054",
+   "plate": "QTQ4414",
+   "driver": "Driver 54"
+  },
+  {
+   "cardId": "CARD-055",
+   "plate": "RX7782",
+   "driver": "Driver 55"
+  },
+  {
+   "cardId": "CARD-056",
+   "plate": "SA377N",
+   "driver": "Driver 56"
+  },
+  {
+   "cardId": "CARD-057",
+   "plate": "SAB1633C",
+   "driver": "Driver 57"
+  },
+  {
+   "cardId": "CARD-058",
+   "plate": "SK3010F",
+   "driver": "Driver 58"
+  },
+  {
+   "cardId": "CARD-059",
+   "plate": "ST3633Y",
+   "driver": "Driver 59"
+  },
+  {
+   "cardId": "CARD-060",
+   "plate": "SU1111M",
+   "driver": "Driver 60"
+  },
+  {
+   "cardId": "CARD-061",
+   "plate": "SU2739F",
+   "driver": "Driver 61"
+  },
+  {
+   "cardId": "CARD-062",
+   "plate": "TBU5553",
+   "driver": "Driver 62"
+  },
+  {
+   "cardId": "CARD-063",
+   "plate": "UR6680",
+   "driver": "Driver 63"
+  },
+  {
+   "cardId": "CARD-064",
+   "plate": "VAT6458",
+   "driver": "Driver 64"
+  },
+  {
+   "cardId": "CARD-065",
+   "plate": "VBM6529",
+   "driver": "Driver 65"
+  },
+  {
+   "cardId": "CARD-066",
+   "plate": "VBV1951",
+   "driver": "Driver 66"
+  },
+  {
+   "cardId": "CARD-067",
+   "plate": "VCL546",
+   "driver": "Driver 67"
+  },
+  {
+   "cardId": "CARD-068",
+   "plate": "VCT9264",
+   "driver": "Driver 68"
+  },
+  {
+   "cardId": "CARD-069",
+   "plate": "VIPS6639",
+   "driver": "Driver 69"
+  },
+  {
+   "cardId": "CARD-070",
+   "plate": "VK641",
+   "driver": "Driver 70"
+  },
+  {
+   "cardId": "CARD-071",
+   "plate": "VKB2009",
+   "driver": "Driver 71"
+  },
+  {
+   "cardId": "CARD-072",
+   "plate": "VL716",
+   "driver": "Driver 72"
+  },
+  {
+   "cardId": "CARD-073",
+   "plate": "VX1042",
+   "driver": "Driver 73"
+  },
+  {
+   "cardId": "CARD-074",
+   "plate": "VX1539",
+   "driver": "Driver 74"
+  },
+  {
+   "cardId": "CARD-075",
+   "plate": "W1688A",
+   "driver": "Driver 75"
+  },
+  {
+   "cardId": "CARD-076",
+   "plate": "W3264K",
+   "driver": "Driver 76"
+  },
+  {
+   "cardId": "CARD-077",
+   "plate": "W6680G",
+   "driver": "Driver 77"
+  },
+  {
+   "cardId": "CARD-078",
+   "plate": "W6697N",
+   "driver": "Driver 78"
+  },
+  {
+   "cardId": "CARD-079",
+   "plate": "WB2744A",
+   "driver": "Driver 79"
+  },
+  {
+   "cardId": "CARD-080",
+   "plate": "WB3387L",
+   "driver": "Driver 80"
+  },
+  {
+   "cardId": "CARD-081",
+   "plate": "WC8763L",
+   "driver": "Driver 81"
+  },
+  {
+   "cardId": "CARD-082",
+   "plate": "WD2828F",
+   "driver": "Driver 82"
+  },
+  {
+   "cardId": "CARD-083",
+   "plate": "WQA2997",
+   "driver": "Driver 83"
+  },
+  {
+   "cardId": "CARD-084",
+   "plate": "WTQ7202",
+   "driver": "Driver 84"
+  },
+  {
+   "cardId": "CARD-085",
+   "plate": "WUA9836",
+   "driver": "Driver 85"
+  },
+  {
+   "cardId": "CARD-086",
+   "plate": "ZD7609",
+   "driver": "Driver 86"
+  },
+  {
+   "cardId": "CARD-087",
+   "plate": "ZL8115",
+   "driver": "Driver 87"
+  }
+ ]
+}
